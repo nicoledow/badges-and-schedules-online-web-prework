@@ -17,3 +17,7 @@ def assign_rooms(array)
   end
   return room_assignments
 end
+
+def printer(array)
+  array.each_with_index do { puts array[i] }
+end
