@@ -1,3 +1,3 @@
-def conference_badges(name)
+def badge_maker(name)
   returns "Hello, my name is #{name}."
 end
