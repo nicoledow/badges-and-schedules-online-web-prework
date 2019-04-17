@@ -1,4 +1,4 @@
-def conference_badges(array)
+def conference_badges(name)
   
   
 end
