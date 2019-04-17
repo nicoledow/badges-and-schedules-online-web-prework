@@ -1,1 +1,4 @@
-# Write your code here.
+def conference_badges(array)
+  
+  
+end
